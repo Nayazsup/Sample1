@@ -6,7 +6,7 @@ public class Hello {
 	@Test
 	public void disp()
 	{
-		System.out.println("i am java");
+		System.out.println("i am java");  //sam
 		
 		System.out.println("i am mava");
 
